@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;i&apos; in &apos;com.app.SearchInRange.linearSearch(...)&apos; to &apos;index&apos;&#x0D;&#x0A;- Original project: &apos;LearnLinearSearchAlgo&apos;&#x0D;&#x0A;- Original element: &apos;com.app.SearchInRange.linearSearch(int[], int, int, int).i&apos;&#x0D;&#x0A;- Renamed element: &apos;i&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;i&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.app{SearchInRange.java[SearchInRange~linearSearch~\[I~I~I~I@i!249!261!253!253!I!0!false" name="index" references="true" stamp="1718898535064" version="1.0"/>
+</session>

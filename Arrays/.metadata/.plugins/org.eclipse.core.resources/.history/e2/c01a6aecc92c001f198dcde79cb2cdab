@@ -1,0 +1,24 @@
+package com.arrays;
+
+import java.util.ArrayList;
+
+public class LearnArrayList {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> list = new ArrayList<>();
+		
+		list.add(12);
+		list.add(32);
+		list.add(33);
+		list.add(56);
+		
+		System.out.println(list);
+		list.remove(1);
+		System.out.println(list.contains(32));
+		
+		list.set(2, 45);
+		System.out.println(list);
+
+	}
+
+}

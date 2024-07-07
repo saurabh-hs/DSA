@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;rows&apos; in &apos;com.binarysearch.SortedMatrix.binarySearch(...)&apos; to &apos;row&apos;&#x0D;&#x0A;- Original project: &apos;BinarySearchAlgorithmAndQuestions&apos;&#x0D;&#x0A;- Original element: &apos;com.binarysearch.SortedMatrix.binarySearch(int[][], int, int, int, int).rows&apos;&#x0D;&#x0A;- Renamed element: &apos;rows&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;rows&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.binarysearch{SortedMatrix.java[SortedMatrix~binarySearch~\[\[I~I~I~I~I@rows!359!366!363!366!I!0!true" name="row" references="true" stamp="1719291893081" version="1.0"/>
+</session>
