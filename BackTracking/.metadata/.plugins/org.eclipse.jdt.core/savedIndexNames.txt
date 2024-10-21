@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\New_Folder\Data Structures and Algorithms\BackTracking\.metadata\.plugins\org.eclipse.jdt.core
+2563980156.index
+4254590904.index
+1865797976.index

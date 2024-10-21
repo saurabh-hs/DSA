@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\New_Folder\Data Structures and Algorithms\Heap\.metadata\.plugins\org.eclipse.jdt.core
+2563980156.index
+1865797976.index
+127829780.index

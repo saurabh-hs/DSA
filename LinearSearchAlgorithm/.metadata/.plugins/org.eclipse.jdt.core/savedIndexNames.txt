@@ -1,4 +1,4 @@
-INDEX VERSION 1.134+D:\New_Folder\Data Structures and Algorithms\LinearSearchAlgorithm\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.134+D:\New_Folder\Data Structures and Algorithms\DSA\LinearSearchAlgorithm\.metadata\.plugins\org.eclipse.jdt.core
 2563980156.index
-1865797976.index
 3332447530.index
+1865797976.index

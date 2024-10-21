@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\New_Folder\Data Structures and Algorithms\HuffManCoding\.metadata\.plugins\org.eclipse.jdt.core
+390516349.index
+2563980156.index
+1865797976.index
